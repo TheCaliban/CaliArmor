@@ -1,0 +1,23 @@
+itemGroup.CaliArmor=Youtube Mod Tab
+
+item.stone_helmet.name=Stone Helmet
+item.stone_chestplate.name=Stone Chestplate
+item.stone_leggings.name=Stone Leggings
+item.stone_boots.name=Stone Boots
+item.kevlar_helmet.name=Kevlar Helmet
+item.kevlar_chestplate.name=Kevlar Chestplate
+item.kevlar_leggings.name=Kevlar Leggings
+item.kevlar_boots.name=Kevlar Boots
+item.volcanite_helmet.name=Volcanite Helmet
+item.volcanite_chestplate.name=Volcanite Chestplate
+item.volcanite_leggings.name=Volcanite Leggings
+item.volcanite_boots.name=Volcanite Boots
+
+item.kevlar_plate.name=Kevlar Plate
+item.volcanite_ingot.name=Volcanite Ingot
+
+item.volcanite_sword.name=Volcanite Sword
+item.volcanite_pickaxe.name=Volcanite Pickaxe
+item.volcanite_axe.name=Volcanite Axe
+item.volcanite_shovel.name=Volcanite Shovel
+item.volcanite_hoe.name=Volcanite Hoe

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "caliarmor:blocks/volcanite_block"
+    }
+}

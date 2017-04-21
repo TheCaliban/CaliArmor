@@ -1,0 +1,23 @@
+itemGroup.CaliArmor=Cali Armor Tan
+
+item.stone_helmet.name=Casque en pierre
+item.stone_chestplate.name=Plastron en pierre
+item.stone_leggings.name=Jambières en pierre
+item.stone_boots.name=Bottes en pierre 
+item.kevlar_helmet.name=Casque en kevlar
+item.kevlar_chestplate.name=Plastron en kevlar
+item.kevlar_leggings.name=Jambières en kevlar
+item.kevlar_boots.name=Boots en kevlar
+item.volcanite_helmet.name=Casque en volcanite
+item.volcanite_chestplate.name=Plastron en volcanite
+item.volcanite_leggings.name=Jambières en volcanite
+item.volcanite_boots.name=Bottes en volcanite
+
+item.kevlar_plate.name=Plaque de kevlar
+item.volcanite_ingot.name=Lingot de volcanite
+
+item.volcanite_sword.name=Épée en volcanite
+item.volcanite_pickaxe.name=Pioche en volcanite
+item.volcanite_axe.name=Hache en volcanite
+item.volcanite_shovel.name=Pelle en volcanite
+item.volcanite_hoe.name=Houe en volcanite
